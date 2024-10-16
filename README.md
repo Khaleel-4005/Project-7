@@ -1,2 +1,3 @@
 # Demo_1
-python basics
+python basics,java and js
+
